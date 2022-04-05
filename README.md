@@ -10,7 +10,6 @@ npm run server
 
 
 Add data to db.json file (i.e 
-
 {
   "tasks": []
 }
